@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleWordle</string>
+    <string name="instructions">\'O\' = the right letter in the right place\n\'+\' = the right letter in the wrong place\n\'X\' = a letter not in the target word</string>
+</resources>
