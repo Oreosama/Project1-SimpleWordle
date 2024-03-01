@@ -27,6 +27,8 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
+* [x] Toast notifies user must enter 4 letters when they submit not enough letters
+* [x] Restrict user from entering more than 4 letters
 
 ## Video Walkthrough
 
